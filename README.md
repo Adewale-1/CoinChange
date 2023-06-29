@@ -18,10 +18,6 @@ To use this class, simply run the `main` method. You will be prompted to enter a
 
 To use this class, run the `main` method. You will be prompted to enter an amount in cents. The program will then output the calculated change in dollars, half dollars, quarters, dimes, nickels, and pennies.
 
-## Dependencies
-
-Both classes depend on the `SimpleReader` and `SimpleWriter` classes from the components library for input and output operations.
-
 ## Authors
 
 These programs were written by A.Adenle.
